@@ -10,7 +10,4 @@ public class Course {
 	public String getCourseName() {
 		return courseName;
 	}
-	public void setCourseName(String name) {
-		courseName = name;
-	}
 }
